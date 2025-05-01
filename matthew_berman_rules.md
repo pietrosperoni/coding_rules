@@ -1,3 +1,7 @@
+# Matthew Berman's Coding Rules - REFERENCE ONLY
+
+> **Note**: This file serves as a reference point for good coding practices as exemplified by Matthew Berman's rules. It should not be modified or directly incorporated into our own rules, but rather used as inspiration for developing our own coding standards. These rules represent an example of "vibe coding" that has proven effective.
+
 – Always prefer simple solutions  
 – Avoid duplication of code whenever possible, which means checking for other areas of the codebase that might already have similar code and functionality  
 – Write code that takes into account the different environments: dev, test, and prod  
